@@ -5,7 +5,7 @@
 
 #  Hello I am İpek!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+Enthusiast;Jetpack+Compose+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Android+Developer;Always+Learning+New+Technologies" />
 
 Passionate about Android development and modern mobile technologies. I build applications using Kotlin and Jetpack Compose while continuously expanding my knowledge of C, C++, and Python. I enjoy learning new technologies, solving real-world problems, and creating clean, scalable, and user-friendly applications.
 
