@@ -1,4 +1,5 @@
-<img width="300" height="450" alt="aa108fb6-ab3e-4021-8eda-f3ecd5629a4e" src="https://github.com/user-attachments/assets/2d0bc9e0-8b51-4343-aa54-93a8805fb265" />
+<img width="1179" height="1002" alt="aa108fb6-ab3e-4021-8eda-f3ecd5629a4e" src="https://github.com/user-attachments/assets/06bbddd2-184f-4853-acdc-d06e981b6e10" />
+
 
 
 # Selam, Ben İpek! 
