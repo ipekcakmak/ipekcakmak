@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=250&section=header&text=İpek&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer&descAlignY=58" width="100%"/>
+<img width="100%" height="640" alt="7810199c-f543-4e92-9312-d897fb385847" src="https://github.com/user-attachments/assets/7c074173-379f-446c-81ed-9fc93e9a1bce" />
+
 
 #  Selam, Ben İpek
 
@@ -40,27 +41,7 @@ Android dünyasında kendimi geliştiriyor ve modern mobil uygulamalar tasarlıy
 
 ---
 
-# 📊GitHub İstatistikleri
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ipekcakmak&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipekcakmak&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-#  GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ipekcakmak&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 
 
