@@ -1,4 +1,5 @@
 <img width="1200" height="900" alt="023c6ee4-1004-4e59-bc87-f9a7075e5fd0" src="https://github.com/user-attachments/assets/cc461d63-f1fe-49b4-a502-a3dd527dbc0f" />
+
 # Selam, Ben İpek! 
 
 Android dünyasında kendimi geliştiriyor ve modern mobil uygulamalar tasarlıyorum. 
