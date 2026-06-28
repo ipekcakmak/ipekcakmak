@@ -3,7 +3,7 @@
 <img width="100%" height="640" alt="7810199c-f543-4e92-9312-d897fb385847" src="https://github.com/user-attachments/assets/7c074173-379f-446c-81ed-9fc93e9a1bce" />
 
 
-#  Hello I am İpek!
+#  Hello I am İpek!👾
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Android+Developer;Always+Learning+New+Technologies" />
 
