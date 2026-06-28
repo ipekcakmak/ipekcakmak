@@ -3,11 +3,11 @@
 <img width="100%" height="640" alt="7810199c-f543-4e92-9312-d897fb385847" src="https://github.com/user-attachments/assets/7c074173-379f-446c-81ed-9fc93e9a1bce" />
 
 
-#  Selam, Ben İpek
+#  Hello I am İpek!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+Enthusiast;Jetpack+Compose+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+Enthusiast;Jetpack+Compose+Learner;Always+Learning+New+Technologies" />
 
-Android dünyasında kendimi geliştiriyor ve modern mobil uygulamalar tasarlıyorum. 
+Passionate about Android development and modern mobile technologies. I build applications using Kotlin and Jetpack Compose while continuously expanding my knowledge of C, C++, and Python. I enjoy learning new technologies, solving real-world problems, and creating clean, scalable, and user-friendly applications.
 
 </div>
 
@@ -15,7 +15,7 @@ Android dünyasında kendimi geliştiriyor ve modern mobil uygulamalar tasarlıy
 
 #  Tech Stack
 
-###  Şu An Kullandığım Teknolojiler
+### Technologies Used
 
 <p>
 
@@ -31,7 +31,7 @@ Android dünyasında kendimi geliştiriyor ve modern mobil uygulamalar tasarlıy
 
 ---
 
-#  Şu Anda Öğrendiğim Teknolojiler
+# Technologies I Am Currently Learning
 
 <p>
 
