@@ -47,7 +47,8 @@ Passionate about Android development and modern mobile technologies. I build app
 
 
 <img width="100" height="100" alt="a15c8519-1d82-4cb6-878b-f53024e3a753" src="https://github.com/user-attachments/assets/2f617039-3c60-4adf-aaae-a4dee2a1ba71" />
-                                                                           ⭐ Thanks for visiting my profile!     
+
+⭐ Thanks for visiting my profile!     
 
 
 </div>
