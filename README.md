@@ -1,30 +1,69 @@
-<img width="100%" height="450" alt="7810199c-f543-4e92-9312-d897fb385847" src="https://github.com/user-attachments/assets/495a1d73-ac1e-4c16-aa93-fc5334b11c86" />
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=250&section=header&text=İpek&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer&descAlignY=58" width="100%"/>
 
+#  Selam, Ben İpek
 
-
-
-# Selam, Ben İpek! 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+Enthusiast;Jetpack+Compose+Learner;Always+Learning+New+Technologies" />
 
 Android dünyasında kendimi geliştiriyor ve modern mobil uygulamalar tasarlıyorum. 
 
-###  Şu An Kullandığım Teknolojiler
-Bu teknolojilerle aktif olarak projeler geliştiriyorum:
-
-[<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />](javascript:void(0))
-[<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />](javascript:void(0))
-[<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />](javascript:void(0))
-[<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />](javascript:void(0))
-[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](javascript:void(0))
+</div>
 
 ---
 
-###  Öğrenme Sürecinde Olduğum Teknolojiler
-Kendimi bu dillerde ve alanlarda geliştirmeye devam ediyorum:
+#  Tech Stack
 
-[<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />](javascript:void(0))
-[<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](javascript:void(0))
-[<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />](javascript:void(0))
-[<img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />](javascript:void(0))
-[<img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />](javascript:void(0))
+###  Şu An Kullandığım Teknolojiler
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,sqlite,github"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+
+</p>
+
+---
+
+#  Şu Anda Öğrendiğim Teknolojiler
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css"/>
+
+</p>
+
+---
+
+# 📊GitHub İstatistikleri
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ipekcakmak&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipekcakmak&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+#  GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ipekcakmak&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+
+
+⭐ Thanks for visiting my profile!
+
+</div>
