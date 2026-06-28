@@ -1,4 +1,4 @@
-<img width="1001" height="1000" alt="a15c8519-1d82-4cb6-878b-f53024e3a753" src="https://github.com/user-attachments/assets/8e681bb2-d466-474c-b1b9-06a71c492c20" />
+
 <div align="center">
 
 <img width="100%" height="640" alt="7810199c-f543-4e92-9312-d897fb385847" src="https://github.com/user-attachments/assets/7c074173-379f-446c-81ed-9fc93e9a1bce" />
@@ -46,7 +46,8 @@ Passionate about Android development and modern mobile technologies. I build app
 
 
 
-⭐ Thanks for visiting my profile!     <img width="100" height="100" alt="a15c8519-1d82-4cb6-878b-f53024e3a753" src="https://github.com/user-attachments/assets/2f617039-3c60-4adf-aaae-a4dee2a1ba71" />
+<img width="100" height="100" alt="a15c8519-1d82-4cb6-878b-f53024e3a753" src="https://github.com/user-attachments/assets/2f617039-3c60-4adf-aaae-a4dee2a1ba71" />
+                                                                           ⭐ Thanks for visiting my profile!     
 
 
 </div>
